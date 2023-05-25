@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on nothing 
 
-🌱 I’m currently learning Spring (Core, Boot, Data, Security)
+- 🌱 I’m currently learning Spring (Core, Boot, Data, Security)
 
-🌱 Trying on professional Java programming
+- 🌱 Trying on professional Java programming
 
 - 👯 I’m looking to collaborate on Currently No Body 
 
