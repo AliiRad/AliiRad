@@ -16,14 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on currently nothing 
+- 🔭 I’m currently working on nothing 
 
-- 🌱 I’m currently learning 🌱 I’m currently learning Spring (Core, Boot, Data, Security)
+🌱 I’m currently learning Spring (Core, Boot, Data, Security)
 
-🌱 professional Java programming
+🌱 Trying on professional Java programming
 
-
-- 👯 I’m looking to collaborate on No Body 
+- 👯 I’m looking to collaborate on Currently No Body 
 
 - 💬 Talk to me about Java ,Spring ,software engineering fields 
 
